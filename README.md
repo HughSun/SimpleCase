@@ -1,3 +1,3 @@
 SimpleCase
 ==========
-Show some simple case.
+Show some simple cases.
